@@ -13,7 +13,7 @@ Not much to say... 💻 I'm a programmer, in deed... 👨‍💻​ Or a develop
 
 🧑‍💻 Yes, I write code.  
 🖨️ No, I can't fix your printer.  
-☕ Fueled by coffee and Stack Overflow... ChatGPT and Gemini.
+☕ Fueled by coffee, Stack Overflow... ChatGPT and Gemini ✨.
 
 I specialize in making things work (sometimes even on purpose).
 
